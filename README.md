@@ -37,8 +37,6 @@ Simple application showcasing the state pattern.
 - `cd JS.StatePattern` Open up the cloned repository.
 - `open index.html` to open the application in your browser.
 
-Alternatively, visit https://marclignarius.github.io/JS.StatePattern/ to see the live version of the application.
-
 ## Known Bugs
 
 There are no known bugs as of that last release.
